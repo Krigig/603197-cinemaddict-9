@@ -1,7 +1,7 @@
 # Личный проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Kristina SHkatulova](https://up.htmlacademy.ru/ecmascript/9/user/603197).
-* Наставник: `Неизвестно`.
+
 
 ---
 
